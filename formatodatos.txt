@@ -1,3 +1,0 @@
-numero peliculas y capitulos
-pelicula: p nombre categoria duracion calificacion id 
-capitulo: s nombre categoria duracion calificacion id numerocap numerotemp serie

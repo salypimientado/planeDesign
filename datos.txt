@@ -1,0 +1,31 @@
+30
+p Batman_Begins Accion 140 4 1
+s Pilot drama 58 5 2 1 1 Breaking_Bad
+s The_Cat's_in_the_bag drama 49 5 3 2 1 Breaking_Bad
+s And_the_bag's_in_the_river drama 49 4 4 3 1 Breaking_Bad
+s Cancer_man drama 49 5 5 4 1 Breaking_Bad
+s Gray_matter drama 49 4 6 5 1 Breaking_Bad
+s Crazy_handful_of_Nothin' drama 49 4 7 6 1 Breaking_Bad
+s A_No-Rough-Stuff-Type_deal drama 49 5 8 7 1 Breaking_Bad
+p Inception Suspenso 162 5 9
+s Seven_Thirty-Seven drama 49 5 10 1 2 Breaking_Bad
+s Grilled drama 49 5 11 2 2 Breaking_Bad
+s Bit_by_a_dead_bee drama 49 5 12 3 2 Breaking_Bad
+s Down drama 49 5 13 4 2 Breaking_Bad
+s Breakage drama 49 3 14 5 2 Breaking_Bad
+s Peekaboo drama 49 2 15 6 2 Breaking_Bad
+s Negro_y_azul drama 49 1 16 7 2 Breaking_Bad
+s Better_call_Saul drama 49 4 17 8 2 Breaking_Bad
+s 4_days_out drama 49 3 18 9 2 Breaking_Bad
+s Over drama 49 2 19 10 2 Breaking_Bad
+s Mandala drama 49 4 20 11 2 Breaking_Bad
+s Phoenix drama 49 5 21 12 2 Breaking_Bad
+s ABQ drama 49 1 22 13 2 Breaking_Bad
+s A_Study_In_Pink Misterio 88 5 23 1 1 Sherlock
+s The_Blind_Banker Misterio 88 3 24 2 1 Sherlock
+s The_Great_Game Misterio 89 4 25 3 1 Sherlock
+s A_Scandal_In_Velgrabia Misterio 89 5 26 1 2 Sherlock
+s The_Hounds_Of_Baskerville Misterio 88 1 27 2 2 Sherlock
+s The_Reichenbach_Fall Misterio 88 5 28 3 2 Sherlock
+p The_Prestige Misterio 130 4 29
+p Get_Out Horror 104 5 30

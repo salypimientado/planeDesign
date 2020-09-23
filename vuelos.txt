@@ -1,0 +1,208 @@
+07:45:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet1.txt
+06:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet2.txt
+08:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet3.txt
+07:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet4.txt
+09:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet5.txt
+08:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet6.txt
+10:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet7.txt
+11:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet8.txt
+12:35:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet10.txt
+14:35:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet13.txt
+15:35:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet14.txt
+16:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet17.txt
+17:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet18.txt
+16:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet20.txt
+18:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet21.txt
+17:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet24.txt
+19:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet25.txt
+18:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet27.txt
+19:15:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet28.txt
+21:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet29.txt
+20:20:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet31.txt
+22:40:00,27/11/19,Mexico City (MEX),Interjet,1590,100,120,Interjet32.txt
+00:20:00,28/11/19,Cancun (CUN),Interjet,1590,100,120,Interjet34.txt
+11:15:00,28/11/19,Cancun (CUN),Interjet,1590,100,120,Interjet35.txt
+00:55:00,29/11/19,Toluca (TLC),Interjet,1590,100,120,Interjet37.txt
+21:30:00,29/11/19,Toluca (TLC),Interjet,1590,100,120,Interjet38.txt
+09:30:00,29/11/19,Toluca (TLC),Interjet,1590,100,120,Interjet39.txt
+05:45:00,29/11/19,Toluca (TLC),Interjet,1590,100,120,Interjet40.txt
+11:55:00,29/11/19,Chihuahua (CUU),Aeromexico,1590,100,120,Aeromexico48.txt
+07:23:00,29/11/19,Silao (BJX),Aeromexico,1590,100,120,Aeromexico49.txt
+20:50:00,30/11/19,Guadalajara (GDL),Aeromexico,1590,100,120,Aeromexico50.txt
+16:12:00,01/12/19,Silao (BJX),Aeromexico,1590,100,120,Aeromexico53.txt
+17:59:00,02/12/19,Silao (BJX),Aeromexico Connect,1590,100,120,Aeromexico Connect54.txt
+21:15:00,03/12/19,Silao (BJX),Aeromexico,1590,100,120,Aeromexico56.txt
+17:40:00,04/12/19,Chihuahua (CUU),Aeromexico Connect,1590,100,120,Aeromexico Connect57.txt
+21:10:00,29/11/19,Chihuahua (CUU),Aeromexico,1590,100,120,Aeromexico58.txt
+06:30:00,29/11/19,Guadalajara (GDL),Aeromexico,1590,100,120,Aeromexico60.txt
+08:20:00,29/11/19,Hermosillo (HMO),Aeromexico,1590,100,120,Aeromexico61.txt
+13:10:00,29/11/19,Hermosillo (HMO),Aeromexico,1590,100,120,Aeromexico63.txt
+21:40:00,29/11/19,Chihuahua (CUU),Aeromexico,1590,100,120,Aeromexico64.txt
+08:30:00,29/11/19,Chihuahua (CUU),Aeromexico,1590,100,120,Aeromexico65.txt
+10:00:00,29/11/19,Guadalajara (GDL),Aeromexico,1590,100,120,Aeromexico66.txt
+17:50:00,29/11/19,Guadalajara (GDL),Aeromexico,1590,100,120,Aeromexico67.txt
+17:10:00,29/11/19,Guadalajara (GDL),Aeromexico,1590,100,120,Aeromexico69.txt
+08:30:00,29/11/19,Chihuahua (CUU),Aeromexico,1590,100,120,Aeromexico70.txt
+17:05:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico71.txt
+19:05:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico73.txt
+22:00:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico74.txt
+07:31:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico76.txt
+13:30:00,29/11/19,Puebla (PBC),Aeromexico Connect,1590,100,120,Aeromexico Connect77.txt
+06:01:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico79.txt
+09:15:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico80.txt
+22:15:00,29/11/19,Queretaro (QRO),Aeromexico,1590,100,120,Aeromexico81.txt
+22:30:00,29/11/19,San Luis Potosi (SLP),Aeromexico,1590,100,120,Aeromexico82.txt
+18:30:00,29/11/19,Puebla (PBC),Aeromexico Connect,1590,100,120,Aeromexico Connect83.txt
+22:10:00,29/11/19,Puebla (PBC),Aeromexico,1590,100,120,Aeromexico84.txt
+07:15:00,29/11/19,San Luis Potosi (SLP),Aeromexico,1590,100,120,Aeromexico86.txt
+16:30:00,29/11/19,Cancun (CUN),Aeromexico,1590,100,120,Aeromexico87.txt
+16:55:00,29/11/19,Hermosillo (HMO),Aeromexico Connect,1590,100,120,Aeromexico Connect95.txt
+21:49:00,29/11/19,Hermosillo (HMO),Aeromexico,1590,100,120,Aeromexico96.txt
+06:05:00,29/11/19,Silao (BJX),Aeromexico,1590,100,120,Aeromexico98.txt
+07:26:00,29/11/19,Guadalajara (GDL),Aeromexico Connect,1590,100,120,Aeromexico Connect99.txt
+21:50:00,29/11/19,Guadalajara (GDL),Aeromexico Connect,1590,100,120,Aeromexico Connect102.txt
+07:55:00,30/11/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico103.txt
+08:35:00,01/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico104.txt
+08:55:00,02/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico105.txt
+06:05:00,03/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico106.txt
+06:55:00,04/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico107.txt
+09:52:00,05/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico108.txt
+07:40:00,06/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico109.txt
+10:50:00,07/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico110.txt
+11:45:00,08/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico112.txt
+12:50:00,09/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico114.txt
+13:55:00,10/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico117.txt
+09:05:00,11/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico118.txt
+14:49:00,12/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico120.txt
+15:45:00,13/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico122.txt
+16:58:00,14/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico124.txt
+17:55:00,15/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico125.txt
+18:55:00,16/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico128.txt
+19:55:00,17/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico129.txt
+17:40:00,18/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico131.txt
+18:25:00,19/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico133.txt
+18:35:00,20/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico134.txt
+20:55:00,21/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico136.txt
+19:35:00,22/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico137.txt
+21:50:00,23/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico139.txt
+20:35:00,24/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico140.txt
+21:35:00,25/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico141.txt
+23:50:00,26/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico142.txt
+19:05:00,27/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico143.txt
+08:25:00,28/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico144.txt
+22:53:00,29/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico146.txt
+16:25:00,30/12/19,Mexico City (MEX),Aeromexico,1590,100,120,Aeromexico147.txt
+22:00:00,31/12/19,Mexico City (MEX),Aeromexico Connect,1590,100,120,Aeromexico Connect148.txt
+06:35:00,01/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus149.txt
+07:05:00,02/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus150.txt
+07:30:00,03/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus151.txt
+08:15:00,04/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus152.txt
+13:50:00,05/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus154.txt
+17:55:00,06/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus156.txt
+18:30:00,07/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus157.txt
+06:10:00,08/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus158.txt
+10:05:00,09/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus159.txt
+15:15:00,10/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus160.txt
+16:40:00,11/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus162.txt
+20:40:00,12/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus163.txt
+21:25:00,13/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus165.txt
+01:20:00,14/01/20,Mexico City (MEX),VivaAerobus,1590,100,120,VivaAerobus166.txt
+06:00:00,25/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus167.txt
+11:25:00,26/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus168.txt
+16:15:00,27/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus171.txt
+18:40:00,28/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus172.txt
+20:05:00,29/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus174.txt
+18:50:00,30/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus175.txt
+00:15:00,31/12/19,Cancun (CUN),VivaAerobus,4590,100,120,VivaAerobus176.txt
+07:00:00,01/01/20,Guadalajara (GDL),VivaAerobus,3400,100,120,VivaAerobus177.txt
+10:30:00,02/01/20,Guadalajara (GDL),VivaAerobus,3400,100,120,VivaAerobus178.txt
+15:45:00,03/01/20,Guadalajara (GDL),VivaAerobus,3400,100,120,VivaAerobus179.txt
+19:10:00,04/01/20,Guadalajara (GDL),VivaAerobus,3400,100,120,VivaAerobus181.txt
+20:30:00,05/01/20,Guadalajara (GDL),VivaAerobus,3400,100,120,VivaAerobus182.txt
+06:40:00,06/01/20,Puebla (PBC),VivaAerobus,500,100,120,VivaAerobus183.txt
+14:15:00,07/01/20,Puebla (PBC),VivaAerobus,500,100,120,VivaAerobus184.txt
+15:50:00,08/01/20,Puebla (PBC),VivaAerobus,500,100,120,VivaAerobus185.txt
+19:55:00,09/01/20,Mazatlan (MZT),VivaAerobus,2000,100,120,VivaAerobus186.txt
+06:00:00,10/01/20,Toluca (TLC),VivaAerobus,3000,100,120,VivaAerobus188.txt
+15:30:00,11/01/20,Toluca (TLC),VivaAerobus,3000,100,120,VivaAerobus189.txt
+15:00:00,12/01/20,Acapulco (ACA),VivaAerobus,1590,100,120,VivaAerobus190.txt
+06:40:00,13/01/20,Tijuana (TIJ),VivaAerobus,2890,100,120,VivaAerobus191.txt
+13:00:00,14/01/20,Tijuana (TIJ),VivaAerobus,2890,100,120,VivaAerobus192.txt
+17:50:00,15/01/20,Tijuana (TIJ),VivaAerobus,2890,100,120,VivaAerobus194.txt
+00:20:00,16/01/20,Tijuana (TIJ),VivaAerobus,2890,100,120,VivaAerobus195.txt
+11:05:00,17/01/20,Hermosillo (HMO),VivaAerobus,1590,100,120,VivaAerobus196.txt
+06:30:00,18/01/20,Ciudad Juarez (CJS),VivaAerobus,1000,100,120,VivaAerobus197.txt
+15:55:00,19/01/20,Ciudad Juarez (CJS),VivaAerobus,1000,100,120,VivaAerobus198.txt
+06:20:00,20/01/20,Veracruz (VER),VivaAerobus,1200,100,120,VivaAerobus199.txt
+14:00:00,21/01/20,Veracruz (VER),VivaAerobus,1200,100,120,VivaAerobus200.txt
+20:20:00,22/01/20,Veracruz (VER),VivaAerobus,1200,100,120,VivaAerobus201.txt
+20:10:00,23/01/20,Silao (BJX),VivaAerobus,800,100,120,VivaAerobus202.txt
+20:45:00,24/01/20,Silao (BJX),VivaAerobus,800,100,120,VivaAerobus204.txt
+15:40:00,25/01/20,Tuxtla Gutierrez (TGZ),VivaAerobus,1300,100,120,VivaAerobus205.txt
+18:30:00,26/01/20,Tuxtla Gutierrez (TGZ),VivaAerobus,1300,100,120,VivaAerobus206.txt
+00:05:00,27/01/20,Tuxtla Gutierrez (TGZ),VivaAerobus,1300,100,120,VivaAerobus207.txt
+13:45:00,28/01/20,Queretaro (QRO),VivaAerobus,990,100,120,VivaAerobus208.txt
+12:45:00,29/01/20,Mexicali (MXL),VivaAerobus,4000,100,120,VivaAerobus210.txt
+12:00:00,30/01/20,Culiacan (CUL),VivaAerobus,1000,100,120,VivaAerobus211.txt
+20:00:00,31/01/20,Culiacan (CUL),VivaAerobus,1000,100,120,VivaAerobus212.txt
+06:20:00,01/02/20,Merida (MID),VivaAerobus,3000,100,120,VivaAerobus213.txt
+11:15:00,02/02/20,Merida (MID),VivaAerobus,3000,100,120,VivaAerobus215.txt
+19:35:00,03/02/20,Merida (MID),VivaAerobus,3000,100,120,VivaAerobus216.txt
+00:10:00,04/02/20,Merida (MID),VivaAerobus,3000,100,120,VivaAerobus217.txt
+15:50:00,05/02/20,Tampico (TAM),VivaAerobus,200,100,120,VivaAerobus218.txt
+18:35:00,06/02/20,Tampico (TAM),VivaAerobus,200,100,120,VivaAerobus219.txt
+22:50:00,07/02/20,Tampico (TAM),VivaAerobus,200,100,120,VivaAerobus220.txt
+18:50:00,08/02/20,Chihuahua (CUU),VivaAerobus,300,100,120,VivaAerobus221.txt
+09:10:00,09/02/20,San Jose del Cabo (SJD),VivaAerobus,300,100,120,VivaAerobus222.txt
+15:40:00,10/02/20,San Jose del Cabo (SJD),VivaAerobus,300,100,120,VivaAerobus223.txt
+19:05:00,11/02/20,San Jose del Cabo (SJD),VivaAerobus,300,100,120,VivaAerobus224.txt
+20:00:00,12/02/20,San Jose del Cabo (SJD),VivaAerobus,300,100,120,VivaAerobus225.txt
+15:40:00,13/02/20,Puerto Vallarta (PVR),VivaAerobus,500,100,120,VivaAerobus226.txt
+19:50:00,14/02/20,Puerto Vallarta (PVR),VivaAerobus,500,100,120,VivaAerobus227.txt
+16:05:00,15/02/20,Los Mochis (LMM),VivaAerobus,800,100,120,VivaAerobus228.txt
+19:40:00,16/02/20,Los Mochis (LMM),VivaAerobus,800,100,120,VivaAerobus229.txt
+06:10:00,17/02/20,Villahermosa (VSA),VivaAerobus,3500,100,120,VivaAerobus230.txt
+11:15:00,18/02/20,Villahermosa (VSA),VivaAerobus,3500,100,120,VivaAerobus231.txt
+15:50:00,19/02/20,Villahermosa (VSA),VivaAerobus,3500,100,120,VivaAerobus232.txt
+21:04:00,20/02/20,Oaxaca (OAX),Volaris,600,100,120,Volaris233.txt
+16:37:00,21/02/20,San Jose del Cabo (SJD),Volaris,450,100,120,Volaris234.txt
+21:07:00,22/02/20,San Jose del Cabo (SJD),Volaris,450,100,120,Volaris235.txt
+22:52:00,23/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris236.txt
+18:46:00,24/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris238.txt
+08:38:00,25/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris239.txt
+05:46:00,26/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris240.txt
+10:03:00,27/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris241.txt
+09:08:00,28/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris242.txt
+22:20:00,29/02/20,Mexico City (MEX),Volaris,750,100,120,Volaris243.txt
+22:50:00,01/03/20,Mexico City (MEX),Volaris,750,100,120,Volaris245.txt
+16:55:00,02/03/20,Mexico City (MEX),Volaris,750,100,120,Volaris246.txt
+17:25:00,03/03/20,Mexico City (MEX),Volaris,750,100,120,Volaris248.txt
+05:58:00,04/03/20,Cancun (CUN),Volaris,1500,100,120,Volaris249.txt
+16:04:00,05/03/20,Cancun (CUN),Volaris,1500,100,120,Volaris250.txt
+17:42:00,06/03/20,Puebla (PBC),Volaris,800,100,120,Volaris252.txt
+19:38:00,07/03/20,Cancun (CUN),Volaris,700,100,120,Volaris253.txt
+18:01:00,08/03/20,Cancun (CUN),Volaris,700,100,120,Volaris254.txt
+11:24:00,09/03/20,Cancun (CUN),Volaris,700,100,120,Volaris257.txt
+07:30:00,10/03/20,Mexicali (MXL),Volaris,600,100,120,Volaris258.txt
+13:26:00,11/03/20,Mexicali (MXL),Volaris,600,100,120,Volaris259.txt
+07:00:00,12/03/20,Tijuana (TIJ),Volaris,2000,100,120,Volaris260.txt
+20:12:00,13/03/20,Tijuana (TIJ),Volaris,2000,100,120,Volaris261.txt
+12:51:00,14/03/20,Tijuana (TIJ),Volaris,2000,100,120,Volaris262.txt
+15:16:00,15/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris264.txt
+16:03:00,16/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris265.txt
+21:51:00,17/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris266.txt
+08:04:00,18/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris267.txt
+07:24:00,19/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris268.txt
+06:25:00,20/03/20,Guadalajara (GDL),Volaris,2100,100,120,Volaris269.txt
+16:10:00,21/03/20,Veracruz (VER),TAR Aerolineas,100,100,120,TAR Aerolineas270.txt
+20:40:00,22/03/20,Queretaro (QRO),TAR Aerolineas,600,100,120,TAR Aerolineas271.txt
+18:20:00,23/03/20,Queretaro (QRO),TAR Aerolineas,600,100,120,TAR Aerolineas273.txt
+07:55:00,24/03/20,Queretaro (QRO),TAR Aerolineas,600,100,120,TAR Aerolineas274.txt
+08:20:00,25/03/20,Queretaro (QRO),TAR Aerolineas,600,100,120,TAR Aerolineas275.txt
+18:45:00,26/03/20,Tampico (TAM),TAR Aerolineas,700,100,120,TAR Aerolineas276.txt
+09:05:00,27/03/20,Tampico (TAM),TAR Aerolineas,700,100,120,TAR Aerolineas277.txt
+19:55:00,28/03/20,Queretaro (QRO),TAR Aerolineas,1000,100,120,TAR Aerolineas278.txt
+18:25:00,29/03/20,Durango (DGO),TAR Aerolineas,2000,100,120,TAR Aerolineas279.txt
+20:15:00,30/03/20,Queretaro (QRO),TAR Aerolineas,1000,100,120,TAR Aerolineas281.txt
+16:35:00,31/03/20,Aguascalientes (AGU),TAR Aerolineas,400,100,120,TAR Aerolineas282.txt
+19:25:00,01/04/20,Aguascalientes (AGU),TAR Aerolineas,400,100,120,TAR Aerolineas283.txt
